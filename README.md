@@ -5,7 +5,7 @@ Authors:
 1) Jyotirmay Srivastava (https://www.linkedin.com/in/jyotirmay-srivastava-in/  || https://twitter.com/js_neuro)
 2) Dr. Poonam Thakur (https://www.linkedin.com/in/dr-poonam-thakur-28b28343/  ||  https://twitter.com/poonam_thakur6)
 
-This is repo containing all of the scripts used in the publication:
+This is repo contains all of the scripts used in the publication:
 ...
 ...
 
